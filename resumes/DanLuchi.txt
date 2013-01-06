@@ -1,0 +1,48 @@
+﻿DanLuchi.com - DLuchi@gmail.com - 734.516.9822
+________________
+
+
+Profile
+Senior software developer with expertise in Ruby and Rails
+Team player who thrives when working collaboratively with customers and developers
+Entrepreneur striving to create positive change in the world
+________________
+
+
+Professional Experience
+Rafter (formerly Bookrenter.com), April 2011 - September 2012 
+Web Developer, San Mateo, CA
+1. Developed a suite of products to make in store rentals a reality including: point of sale web/iOS app, managers’ dashboard, integration with Sequoia Retail Systems
+2. Created a simple, powerful A/B testing framework that married variations, visitor_ids and all exisiting data on customer behavior and conversion rates in easily digestable graphs for the marketing team
+
+
+Graphics and High Throughput Computing, Intel Corporation, May 2009 - Mar 2011 
+Software Engineer (C/C++), Santa Clara, CA
+1. Developed hardware specific modifications to random instruction testing tool for memory and coherency
+2. Drove improvements of tool release and automated testing environments which reduced workload from 20 hours per week to 2 hours per week
+3. Introduced the use of hardware performance monitors into volume validation infrastructure and as a tool for debugging complex failures
+4. Scrum Master for team’s adoption of Scrum Agile practices
+
+
+Rotation Engineer Program, Intel Corporation, May 2009 - Mar 2011 
+1. Sales and Marketing Executive Office - research on industry trends and keynote content development
+2. Microprocessor Research Division - wrote processor simulator in C++ as infrastructure for prefetching contest
+3. Integrated Circuit Design for Multimedia SoC (System on a Chip)
+
+
+Test Engineer Co-op, CIsco System, january 2006 - July 2006 
+________________
+
+
+Education
+Bachelor of Science in Engineering - Electrical Engineering, 2007
+University of Michigan College of Engineering, Ann Arbor, MI 
+Cumulative GPA: 3.5
+________________
+
+
+Technology
+Specialties:                         Ruby, Rails, Javascript, Backbone.js, Coffeescript
+Other skills:                         C/C++, Python, MySQL, PostgreSQL, RSpec, Shoulda
+Like to work more with:         Clojure, Objective-C, RubyMotion, Jenkins, Node.js, Redis, 
+MongoDB, Functional Programming, DCI
